@@ -2,9 +2,9 @@
 
 This is the code for the final research project of Emory University CS334 Machine Learning.
 
-All the code can be found in [main.ipynb](https://github.com/yunjiewu777/CS334/blob/main/main.ipynb), data is retrieved from [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), and can also be found in [data](https://github.com/yunjiewu777/CS334/blob/main/data/life_expectancy_data.csv).
-
-A paper summarized our work can be found [here](https://github.com/yunjiewu777/CS334/blob/main/life-expectancy.pdf).
+- All the code can be found in [main.ipynb](https://github.com/yunjiewu777/CS334/blob/main/main.ipynb)
+- Data is retrieved from [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), and can also be found in [data](https://github.com/yunjiewu777/CS334/blob/main/data/life_expectancy_data.csv)
+- A paper summarized our work can be found [here](https://github.com/yunjiewu777/CS334/blob/main/life-expectancy.pdf)
 
 ## Abstract
 
