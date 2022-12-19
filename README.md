@@ -4,7 +4,7 @@
 
 This is the code for the final research project of Emory University CS334 Machine Learning 
 
-- We employed various preprocessing techniques and applied ML models including linear regression, random forest, and XGBoost to find contributing factors to human life expectancy for developing and developed countries separatly
+- We employed various preprocessing techniques and applied ML models including linear regression, random forest, and XGBoost to find contributing factors to human life expectancy for developing and developed countries separately
 
 - All the code can be found in [main.ipynb](https://github.com/yunjiewu777/life-expectancy/blob/main/main.ipynb)
 - Data is retrieved from [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who), and can also be found in [data](https://github.com/yunjiewu777/life-expectancy/blob/main/data/life_expectancy_data.csv)
