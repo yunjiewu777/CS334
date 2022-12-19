@@ -17,6 +17,6 @@ Life expectancy is the number of years a person can be expected to live and is o
 
 ## Contributors
 
-Yunjie(Ruby) Wu [@yunjiewu777](https://github.com/yunjiewu777)
+- Yunjie(Ruby) Wu [@yunjiewu777](https://github.com/yunjiewu777)
 
-Xinran(Alexandra) Li [@shinrannli](https://github.com/shinrannli)
+- Xinran(Alexandra) Li [@shinrannli](https://github.com/shinrannli)
